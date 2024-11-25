@@ -12,12 +12,14 @@ The Real Estate Data Extractor efficiently gathers data from the Allegheny Count
 
 ## What I Learned
 
-The development of the Real Estate Data Extractor provided valuable insights and skills enhancement in key areas:
-
-- **Advanced Web Scraping**: Mastered techniques for extracting data not directly embedded in HTML, utilizing tools such as Selenium and XPath to handle elements without clear HTML labels.
-- **Data Exporting**: Employed Pandas to efficiently organize scraped data into dataframes and export it into CSV format, optimizing data storage and accessibility.
-- **Optimization of Data Collection**: Refined the web scraping process by minimizing the use of Selenium. Instead, data used to extrapolate URLs were utilized to fetch data asynchronously without a browser, thereby enhancing the efficiency of data collection.
-- **Concurrency with Asyncio**: Implemented Asyncio and Aiohttp for effective management of asynchronous tasks, enabling the parallel execution of data retrieval operations which significantly improved performance.
-- **Problem-Solving and Debugging**: Developed sophisticated problem-solving abilities by troubleshooting issues related to extracting data from dynamically generated content and handling data without clear HTML structures.
+Building the Real Estate Data Extractor enhanced my skills in:
+- **Advanced Web Scraping**: Utilized Selenium, BeautifulSoup, XPath, and custom logic to extract data from dynamic content.
+- **Data Exporting with Pandas**: Streamlined the conversion of raw data into structured CSV formats.
+- **Optimized Data Collection**: Replaced browser-based scraping with asynchronous URL fetching, reducing overhead and improving speed.
+- **Concurrency with Asyncio**: Managed parallel data retrieval tasks for efficient and scalable scraping.
+- **Troubleshooting Dynamic Content**: Developed expertise in debugging and handling non-standard web structures.
 
 These advancements not only enhanced technical capabilities but also honed analytical and problem-solving skills, preparing for complex data processing challenges in future roles.
+
+## Get in Touch
+Interested in using this tool or learning more? Feel free to [contact me](mailto:davidgraham7447@gmail.com)!
